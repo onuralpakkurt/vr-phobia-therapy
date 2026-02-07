@@ -7,6 +7,12 @@
 [Uu]ser[Ss]ettings/
 .vscode/
 .idea/
+.vs/
 
+# Unity auto-generated files
+*.csproj
+*.sln
+
+# OS files
 .DS_Store
 Thumbs.db
