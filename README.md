@@ -170,8 +170,6 @@ Bu proje **MIT Lisansı** altında lisanslanmıştır.
 
 <div align="center">
 
-**⭐ Bu projeyi beğendiyseniz yıldız vermeyi unutmayın! ⭐**
 
-Made with ❤️ and Unity
 
 </div>
