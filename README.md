@@ -8,13 +8,13 @@
 
 **Sanal Gerçeklik ile Fobi Tedavisi - Exposure Therapy Uygulaması**
 
-[🎯 Özellikler](#-özellikler) • [🚀 Kurulum](#-kurulum) • [🎮 Kullanım](#-kullanım) • [📁 Proje Yapısı](#-proje-yapısı)
+[Özellikler](#-özellikler) • [Kurulum](#-kurulum) • [Kullanım](#-kullanım) • [Proje Yapısı](#-proje-yapısı)
 
 </div>
 
 ---
 
-## 📖 Proje Hakkında
+## Proje Hakkında
 
 Bu proje, **Sanal Gerçeklik (VR)** teknolojisi kullanarak çeşitli fobilerin tedavisine yardımcı olmak amacıyla geliştirilmiş bir **Exposure Therapy (Maruz Bırakma Terapisi)** simülasyonudur.
 
@@ -22,35 +22,35 @@ Kullanıcılar güvenli bir sanal ortamda korkularıyla yüzleşerek, kontrollü
 
 ---
 
-## 🎯 Özellikler
+## Özellikler
 
-### 🏔️ Yükseklik Fobisi (Acrophobia)
+### Yükseklik Fobisi (Acrophobia)
 
-**🌲 Doğal Ortam - Vadi Köprüsü:**
+**Doğal Ortam - Vadi Köprüsü:**
 - **Seviye 1:** Güvenli köprü geçişi - Başlangıç seviyesi
 - **Seviye 2:** Yüksek platform deneyimi - İleri seviye
 - Kocaman bir vadi üzerinde asma köprü deneyimi
 - Doğal manzara ve derin uçurum
 
-**🏙️ Şehir Ortamı - Gökdelen:**
+** Şehir Ortamı - Gökdelen:**
 - Yüksek gökdelen çatısında deneyim
 - Modern şehir manzarası
 - Cam zeminli platform
 
-**⚙️ Ortak Özellikler:**
+** Ortak Özellikler:**
 - **Güvenlik Rayları:** Açılıp kapanabilen korkuluklar
 - **Düşme Respawn:** Düşme durumunda güvenli geri dönüş
 - **Vignette Efekti:** Kenar kararması ile korku göstergesi
 
-### 🕷️ Örümcek Fobisi (Arachnophobia)
+### Örümcek Fobisi (Arachnophobia)
 - Kontrollü örümcek maruziyeti
 - Kademeli zorluk seviyeleri
 
-### 🚪 Klastrofobi (Claustrophobia)
+### Klastrofobi (Claustrophobia)
 - Daralan oda deneyimi
 - Kapalı alan simülasyonu
 
-### 🎛️ Genel Özellikler
+### Genel Özellikler
 - ✅ Modern VR arayüzü
 - ✅ Kolay navigasyon sistemi
 - ✅ Işınlanma (Teleportation) desteği
@@ -59,7 +59,7 @@ Kullanıcılar güvenli bir sanal ortamda korkularıyla yüzleşerek, kontrollü
 
 ---
 
-## 🚀 Kurulum
+## Kurulum
 
 ### Gereksinimler
 - **Unity 2022.3** veya üzeri
@@ -134,7 +134,7 @@ Assets/
 
 ---
 
-## 🛠️ Teknik Detaylar
+## Teknik Detaylar
 
 ### Kullanılan Teknolojiler
 - **Unity Engine** - Oyun motoru
@@ -154,7 +154,7 @@ Assets/
 
 ---
 
-## 👥 Proje Ekibi
+## Proje Ekibi
 
 - **Ali Turhan** - Geliştirme ve Tasarım
 - **Şinasi Onuralp Akkurt** - Geliştirme ve Tasarım
@@ -162,7 +162,7 @@ Assets/
 
 ---
 
-## 📄 Lisans
+## Lisans
 
 Bu proje **MIT Lisansı** altında lisanslanmıştır.
 
