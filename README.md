@@ -88,7 +88,7 @@ git clone https://github.com/squichip/vr-proje-son.git
 
 ---
 
-## 🎮 Kullanım
+## Kullanım
 
 ### Ana Menü
 - **Yükseklik Fobisi:** Köprü ve platform seviyeleri
@@ -109,7 +109,7 @@ git clone https://github.com/squichip/vr-proje-son.git
 
 ---
 
-## 📁 Proje Yapısı
+## Proje Yapısı
 
 ```
 Assets/
