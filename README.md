@@ -1,4 +1,4 @@
-# 🎮 VR Fobi Tedavi Simülasyonu
+# VR Fobi Tedavi Simülasyonu
 
 <div align="center">
 
